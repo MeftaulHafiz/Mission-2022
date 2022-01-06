@@ -123,3 +123,8 @@ section{
 .left-border{
     Border-left : 3px solid red;
 }
+section-5{
+    padding-top: 40%;
+    margin-left: 25px;
+}
+}
