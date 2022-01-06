@@ -10,15 +10,25 @@ p{ font-family: 'Poppins', sans-serif;
     padding-top: 2%;
     padding-right: 2%;
     padding-left: 2%;
-    font-size: 20px;
+    font-size: 25px;
 }
 h1{
     padding-left: 2%;
-    font-size: 40px;
+    font-size: 55px;
+    
+    
+}
+h2{font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    font-size: 30px;
+    padding-top: 10%;
+
 }
 .body-width{
     width: 50%;
-  
+  margin-left: 28px;
+  padding-bottom: 10px;
+  border-left: red;
 }
 .body-width img{
     width: 50%;
@@ -27,7 +37,7 @@ section{
     display: flex;
 } 
 .button-color{
-    background-image: linear-gradient(grey, tomato);
+    background-image: linear-gradient(red, black);
     text-decoration: none;
     border-radius: 5px;
     padding-left: 10%;
@@ -37,4 +47,79 @@ section{
     padding-bottom: 1%;
     color: white;
 
+}
+.missions-width{
+    width: 25%;
+    padding-left: 3%;
+    padding-right: 3%;
+    
+
+
+}
+.missions-width img{
+    width: 30%;
+}
+.mission-padding{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+.mission-box{
+    background-image: linear-gradient(white, tomato);
+    border-radius: 20px;
+    padding-right: 2%;
+    padding-left: 2%;
+    margin-right: 18px;
+}
+.vission-box{
+    background-image: linear-gradient(blue, white);
+    border-radius: 20px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+.goals-box{
+    background-image: linear-gradient(white, green);
+    border-radius: 20px;
+    padding-right: 2%;
+    padding-left: 2%;
+    margin-left: 18px;
+}
+.top-banner{
+    background-image: url(/images/shape-1.png);
+    background-repeat: no-repeat;
+    
+    width:none;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+.top-banner img{
+    width: none;
+}
+.body-width2{
+    width: 50%;
+
+}
+.body-width2 img{
+    width: 50%;
+    padding-left: 35%;
+    padding-top: 10%;
+}
+.sec3{
+    padding-top: 10%;
+}
+.button-color2{
+    background-image: linear-gradient( red, black);
+    text-decoration: none;
+    color: white;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+}
+.section-4{
+    padding-top: 70px;
+    margin-left: 25px;
+}
+.left-border{
+    Border-left : 3px solid red;
 }
